@@ -1,4 +1,4 @@
-I'm Joel Fishbein, a doctoral student in the clinical psychology PhD program at the University of Colorado Boulder.
+I'm Joel Fishbein, a postdoc at the San Diego Veterans Healthcare System and the University of California San Diego. Opinions are my own.
 
 My research involves applying statistical modeling techniques to look at psychotherapy data in different ways. Hence the Github account.
 
