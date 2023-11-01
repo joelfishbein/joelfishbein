@@ -2,7 +2,7 @@ I'm Joel Fishbein, a postdoc at the San Diego Veterans Affairs Healthcare System
 
 My research involves applying statistical modeling techniques to look at psychotherapy data in different ways.
 
-More on my research at [joelfishbein.com](joelfishbein.com).
+More on my research at [joelfishbein.com](url).
 
 <!---
 joelfishbein/joelfishbein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
