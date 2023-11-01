@@ -1,6 +1,6 @@
-I'm Joel Fishbein, a postdoc at the San Diego Veterans Healthcare System and the University of California San Diego. Opinions are my own.
+I'm Joel Fishbein, a postdoc at the San Diego Veterans Affairs Healthcare System and the University of California San Diego. Opinions are my own.
 
-My research involves applying statistical modeling techniques to look at psychotherapy data in different ways. Hence the Github account.
+My research involves applying statistical modeling techniques to look at psychotherapy data in different ways.
 
 More on my research at [joelfishbein.com](joelfishbein.com).
 
